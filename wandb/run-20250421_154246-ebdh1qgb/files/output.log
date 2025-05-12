@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "/Users/svenlutz/Documents/Manila/TimeSeriesAnalysis/test_run.py", line 157, in sweep_train
+    train_df, val_df, test_df = load_data(data_path, filename)
+                                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/svenlutz/Documents/Manila/TimeSeriesAnalysis/test_run.py", line 21, in load_data
+    pv_ts_dict = pickle.load(open(f"{data_path}/{filename}", 'rb'))
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/home/jupyter-leo.jessat/manila/data/processed-data/D1087183267_ts_dict.pkl'

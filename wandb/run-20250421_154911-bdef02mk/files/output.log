@@ -1,0 +1,339 @@
+Start run with: batch size 32, epochs 250 and patience 15.
+Starting training of epoch 0:
+Training finished with loss:    0.0063371171 and metrics mae:  0.0469788794, rmse:  0.0622519008,
+Validation finished with loss:  0.0070841671 and metrics mae:  0.0550774703, rmse:  0.0724860115,
+--------------------------------------------------
+Starting training of epoch 1:
+Training finished with loss:    0.0050145891 and metrics mae:  0.0401063262, rmse:  0.0547673590,
+Validation finished with loss:  0.0080930953 and metrics mae:  0.0543723773, rmse:  0.0734714797,
+--------------------------------------------------
+Starting training of epoch 2:
+Training finished with loss:    0.0046757513 and metrics mae:  0.0380247976, rmse:  0.0524708698,
+Validation finished with loss:  0.0058936233 and metrics mae:  0.0449808478, rmse:  0.0617196280,
+--------------------------------------------------
+Starting training of epoch 3:
+Training finished with loss:    0.0043685807 and metrics mae:  0.0361254440, rmse:  0.0504354063,
+Validation finished with loss:  0.0054240253 and metrics mae:  0.0410059881, rmse:  0.0573962607,
+--------------------------------------------------
+Starting training of epoch 4:
+Training finished with loss:    0.0041319923 and metrics mae:  0.0348690180, rmse:  0.0490856900,
+Validation finished with loss:  0.0052910973 and metrics mae:  0.0398334039, rmse:  0.0564369515,
+--------------------------------------------------
+Starting training of epoch 5:
+Training finished with loss:    0.0040173823 and metrics mae:  0.0341366555, rmse:  0.0483786317,
+Validation finished with loss:  0.0052278707 and metrics mae:  0.0403485681, rmse:  0.0567491651,
+--------------------------------------------------
+Starting training of epoch 6:
+Training finished with loss:    0.0039887299 and metrics mae:  0.0337635719, rmse:  0.0480106843,
+Validation finished with loss:  0.0052148911 and metrics mae:  0.0405709071, rmse:  0.0570853547,
+--------------------------------------------------
+Starting training of epoch 7:
+Training finished with loss:    0.0039703947 and metrics mae:  0.0334804738, rmse:  0.0477710092,
+Validation finished with loss:  0.0050929732 and metrics mae:  0.0396441945, rmse:  0.0563345333,
+--------------------------------------------------
+Starting training of epoch 8:
+Training finished with loss:    0.0038912089 and metrics mae:  0.0330591696, rmse:  0.0472628290,
+Validation finished with loss:  0.0050723359 and metrics mae:  0.0389470437, rmse:  0.0558501571,
+--------------------------------------------------
+Starting training of epoch 9:
+Training finished with loss:    0.0037933853 and metrics mae:  0.0326327788, rmse:  0.0467531405,
+Validation finished with loss:  0.0051129413 and metrics mae:  0.0392809583, rmse:  0.0561343063,
+--------------------------------------------------
+Starting training of epoch 10:
+Training finished with loss:    0.0037427177 and metrics mae:  0.0323014887, rmse:  0.0463854172,
+Validation finished with loss:  0.0051395073 and metrics mae:  0.0398782161, rmse:  0.0566803005,
+--------------------------------------------------
+Starting training of epoch 11:
+Training finished with loss:    0.0037600951 and metrics mae:  0.0322856550, rmse:  0.0464317353,
+Validation finished with loss:  0.0052669164 and metrics mae:  0.0406561535, rmse:  0.0576822038,
+--------------------------------------------------
+Starting training of epoch 12:
+Training finished with loss:    0.0037548766 and metrics mae:  0.0321983091, rmse:  0.0463672285,
+Validation finished with loss:  0.0050669186 and metrics mae:  0.0393603827, rmse:  0.0562223936,
+--------------------------------------------------
+Starting training of epoch 13:
+Training finished with loss:    0.0037294064 and metrics mae:  0.0321359830, rmse:  0.0462728700,
+Validation finished with loss:  0.0051027634 and metrics mae:  0.0387281606, rmse:  0.0559410003,
+--------------------------------------------------
+Starting training of epoch 14:
+Training finished with loss:    0.0036893167 and metrics mae:  0.0319812530, rmse:  0.0460670521,
+Validation finished with loss:  0.0050613262 and metrics mae:  0.0380466768, rmse:  0.0554845463,
+--------------------------------------------------
+Starting training of epoch 15:
+Training finished with loss:    0.0036569584 and metrics mae:  0.0316622565, rmse:  0.0457567856,
+Validation finished with loss:  0.0050850680 and metrics mae:  0.0387291210, rmse:  0.0558434468,
+--------------------------------------------------
+Starting training of epoch 16:
+Training finished with loss:    0.0036610656 and metrics mae:  0.0315693681, rmse:  0.0457061237,
+Validation finished with loss:  0.0051748942 and metrics mae:  0.0390910829, rmse:  0.0565149776,
+--------------------------------------------------
+Starting training of epoch 17:
+Training finished with loss:    0.0036717507 and metrics mae:  0.0316123544, rmse:  0.0457894006,
+Validation finished with loss:  0.0050436043 and metrics mae:  0.0383813490, rmse:  0.0556633062,
+--------------------------------------------------
+Starting training of epoch 18:
+Training finished with loss:    0.0036545348 and metrics mae:  0.0315786178, rmse:  0.0457110705,
+Validation finished with loss:  0.0049878841 and metrics mae:  0.0378063135, rmse:  0.0550526488,
+--------------------------------------------------
+Starting training of epoch 19:
+Training finished with loss:    0.0036264849 and metrics mae:  0.0314227860, rmse:  0.0455432135,
+Validation finished with loss:  0.0049554012 and metrics mae:  0.0373846365, rmse:  0.0546085447,
+--------------------------------------------------
+Starting training of epoch 20:
+Training finished with loss:    0.0035966883 and metrics mae:  0.0311090969, rmse:  0.0452428309,
+Validation finished with loss:  0.0049786595 and metrics mae:  0.0378243841, rmse:  0.0549770984,
+--------------------------------------------------
+Starting training of epoch 21:
+Training finished with loss:    0.0036049401 and metrics mae:  0.0310658146, rmse:  0.0452124062,
+Validation finished with loss:  0.0050976121 and metrics mae:  0.0381837680, rmse:  0.0556292268,
+--------------------------------------------------
+Starting training of epoch 22:
+Training finished with loss:    0.0036015075 and metrics mae:  0.0310479670, rmse:  0.0452225158,
+Validation finished with loss:  0.0049894866 and metrics mae:  0.0375472225, rmse:  0.0548567994,
+--------------------------------------------------
+Starting training of epoch 23:
+Training finished with loss:    0.0036183158 and metrics mae:  0.0311626764, rmse:  0.0453454388,
+Validation finished with loss:  0.0048671922 and metrics mae:  0.0368947397, rmse:  0.0541204257,
+--------------------------------------------------
+Starting training of epoch 24:
+Training finished with loss:    0.0035903706 and metrics mae:  0.0309884430, rmse:  0.0451659738,
+Validation finished with loss:  0.0048614163 and metrics mae:  0.0365790811, rmse:  0.0538777489,
+--------------------------------------------------
+Starting training of epoch 25:
+Training finished with loss:    0.0035601565 and metrics mae:  0.0306962814, rmse:  0.0448797228,
+Validation finished with loss:  0.0048224526 and metrics mae:  0.0365475963, rmse:  0.0536074321,
+--------------------------------------------------
+Starting training of epoch 26:
+Training finished with loss:    0.0035618665 and metrics mae:  0.0306313586, rmse:  0.0448020323,
+Validation finished with loss:  0.0049129536 and metrics mae:  0.0371082312, rmse:  0.0541736642,
+--------------------------------------------------
+Starting training of epoch 27:
+Training finished with loss:    0.0035721561 and metrics mae:  0.0307398020, rmse:  0.0449456822,
+Validation finished with loss:  0.0048650669 and metrics mae:  0.0367197103, rmse:  0.0539091788,
+--------------------------------------------------
+Starting training of epoch 28:
+Training finished with loss:    0.0035783089 and metrics mae:  0.0307833447, rmse:  0.0449925315,
+Validation finished with loss:  0.0048125408 and metrics mae:  0.0361483263, rmse:  0.0533799916,
+--------------------------------------------------
+Starting training of epoch 29:
+Training finished with loss:    0.0035631686 and metrics mae:  0.0305830292, rmse:  0.0448109082,
+Validation finished with loss:  0.0047989735 and metrics mae:  0.0357349185, rmse:  0.0530892418,
+--------------------------------------------------
+Starting training of epoch 30:
+Training finished with loss:    0.0035268468 and metrics mae:  0.0303307412, rmse:  0.0445858273,
+Validation finished with loss:  0.0047508397 and metrics mae:  0.0354588330, rmse:  0.0527283475,
+--------------------------------------------------
+Starting training of epoch 31:
+Training finished with loss:    0.0035270532 and metrics mae:  0.0302818272, rmse:  0.0444975978,
+Validation finished with loss:  0.0047658653 and metrics mae:  0.0361001287, rmse:  0.0532493036,
+--------------------------------------------------
+Starting training of epoch 32:
+Training finished with loss:    0.0035502813 and metrics mae:  0.0304929148, rmse:  0.0447143692,
+Validation finished with loss:  0.0047136978 and metrics mae:  0.0357875419, rmse:  0.0527892537,
+--------------------------------------------------
+Starting training of epoch 33:
+Training finished with loss:    0.0035551544 and metrics mae:  0.0305098432, rmse:  0.0447401559,
+Validation finished with loss:  0.0047272002 and metrics mae:  0.0355262881, rmse:  0.0526594894,
+--------------------------------------------------
+Starting training of epoch 34:
+Training finished with loss:    0.0035293047 and metrics mae:  0.0303057766, rmse:  0.0445755179,
+Validation finished with loss:  0.0047282161 and metrics mae:  0.0350078985, rmse:  0.0523857083,
+--------------------------------------------------
+Starting training of epoch 35:
+Training finished with loss:    0.0035125431 and metrics mae:  0.0301108021, rmse:  0.0443929895,
+Validation finished with loss:  0.0047062066 and metrics mae:  0.0348389655, rmse:  0.0522424608,
+--------------------------------------------------
+Starting training of epoch 36:
+Training finished with loss:    0.0035031860 and metrics mae:  0.0301097144, rmse:  0.0443308500,
+Validation finished with loss:  0.0046582098 and metrics mae:  0.0350618323, rmse:  0.0521859664,
+--------------------------------------------------
+Starting training of epoch 37:
+Training finished with loss:    0.0035129725 and metrics mae:  0.0302556444, rmse:  0.0444722402,
+Validation finished with loss:  0.0045960355 and metrics mae:  0.0349387154, rmse:  0.0518947636,
+--------------------------------------------------
+Starting training of epoch 38:
+Training finished with loss:    0.0035595620 and metrics mae:  0.0304837384, rmse:  0.0447405931,
+Validation finished with loss:  0.0046236159 and metrics mae:  0.0350880915, rmse:  0.0519226145,
+--------------------------------------------------
+Starting training of epoch 39:
+Training finished with loss:    0.0034994483 and metrics mae:  0.0301279854, rmse:  0.0443559101,
+Validation finished with loss:  0.0046979213 and metrics mae:  0.0346424621, rmse:  0.0520747956,
+--------------------------------------------------
+Starting training of epoch 40:
+Training finished with loss:    0.0034718363 and metrics mae:  0.0299011306, rmse:  0.0441269405,
+Validation finished with loss:  0.0046448467 and metrics mae:  0.0344806089, rmse:  0.0517699069,
+--------------------------------------------------
+Starting training of epoch 41:
+Training finished with loss:    0.0034800252 and metrics mae:  0.0299493849, rmse:  0.0441737158,
+Validation finished with loss:  0.0046407001 and metrics mae:  0.0346722747, rmse:  0.0517805961,
+--------------------------------------------------
+Starting training of epoch 42:
+Training finished with loss:    0.0034965515 and metrics mae:  0.0301413851, rmse:  0.0443398081,
+Validation finished with loss:  0.0045678300 and metrics mae:  0.0347671584, rmse:  0.0515384480,
+--------------------------------------------------
+Starting training of epoch 43:
+Training finished with loss:    0.0035222092 and metrics mae:  0.0303249658, rmse:  0.0445482339,
+Validation finished with loss:  0.0045969185 and metrics mae:  0.0348392556, rmse:  0.0516553854,
+--------------------------------------------------
+Starting training of epoch 44:
+Training finished with loss:    0.0034767256 and metrics mae:  0.0300089234, rmse:  0.0442372558,
+Validation finished with loss:  0.0046222731 and metrics mae:  0.0342204783, rmse:  0.0515344902,
+--------------------------------------------------
+Starting training of epoch 45:
+Training finished with loss:    0.0034610059 and metrics mae:  0.0298079810, rmse:  0.0440313119,
+Validation finished with loss:  0.0045971500 and metrics mae:  0.0342844948, rmse:  0.0514809371,
+--------------------------------------------------
+Starting training of epoch 46:
+Training finished with loss:    0.0034426964 and metrics mae:  0.0297773741, rmse:  0.0439677752,
+Validation finished with loss:  0.0045342233 and metrics mae:  0.0343513391, rmse:  0.0512276787,
+--------------------------------------------------
+Starting training of epoch 47:
+Training finished with loss:    0.0034559183 and metrics mae:  0.0299257759, rmse:  0.0440914608,
+Validation finished with loss:  0.0045141634 and metrics mae:  0.0344124098, rmse:  0.0511102401,
+--------------------------------------------------
+Starting training of epoch 48:
+Training finished with loss:    0.0034629175 and metrics mae:  0.0299909073, rmse:  0.0441722430,
+Validation finished with loss:  0.0045384944 and metrics mae:  0.0342155625, rmse:  0.0511289968,
+--------------------------------------------------
+Starting training of epoch 49:
+Training finished with loss:    0.0034552687 and metrics mae:  0.0298637620, rmse:  0.0440810619,
+Validation finished with loss:  0.0045962679 and metrics mae:  0.0340904938, rmse:  0.0513662131,
+--------------------------------------------------
+Starting training of epoch 50:
+Training finished with loss:    0.0034197877 and metrics mae:  0.0296141287, rmse:  0.0438198801,
+Validation finished with loss:  0.0046088981 and metrics mae:  0.0340099799, rmse:  0.0513651964,
+--------------------------------------------------
+Starting training of epoch 51:
+Training finished with loss:    0.0034098791 and metrics mae:  0.0295557210, rmse:  0.0437358302,
+Validation finished with loss:  0.0045351316 and metrics mae:  0.0339872508, rmse:  0.0510767982,
+--------------------------------------------------
+Starting training of epoch 52:
+Training finished with loss:    0.0034140748 and metrics mae:  0.0296928359, rmse:  0.0438351056,
+Validation finished with loss:  0.0044898558 and metrics mae:  0.0339871286, rmse:  0.0508416219,
+--------------------------------------------------
+Starting training of epoch 53:
+Training finished with loss:    0.0034268154 and metrics mae:  0.0297741637, rmse:  0.0439357185,
+Validation finished with loss:  0.0044796409 and metrics mae:  0.0337214974, rmse:  0.0507956608,
+--------------------------------------------------
+Starting training of epoch 54:
+Training finished with loss:    0.0034166241 and metrics mae:  0.0296329819, rmse:  0.0438367280,
+Validation finished with loss:  0.0046203839 and metrics mae:  0.0339184660, rmse:  0.0514176710,
+--------------------------------------------------
+Starting training of epoch 55:
+Training finished with loss:    0.0033930345 and metrics mae:  0.0294401958, rmse:  0.0436212012,
+Validation finished with loss:  0.0045828915 and metrics mae:  0.0337784049, rmse:  0.0513029027,
+--------------------------------------------------
+Starting training of epoch 56:
+Training finished with loss:    0.0033781701 and metrics mae:  0.0293755933, rmse:  0.0435102120,
+Validation finished with loss:  0.0045368176 and metrics mae:  0.0335269243, rmse:  0.0509145732,
+--------------------------------------------------
+Starting training of epoch 57:
+Training finished with loss:    0.0033716770 and metrics mae:  0.0294784081, rmse:  0.0435670713,
+Validation finished with loss:  0.0045233088 and metrics mae:  0.0336041878, rmse:  0.0508473383,
+--------------------------------------------------
+Starting training of epoch 58:
+Training finished with loss:    0.0033894418 and metrics mae:  0.0295686613, rmse:  0.0437010549,
+Validation finished with loss:  0.0045247217 and metrics mae:  0.0335675107, rmse:  0.0508664861,
+--------------------------------------------------
+Starting training of epoch 59:
+Training finished with loss:    0.0033727844 and metrics mae:  0.0293824137, rmse:  0.0435337545,
+Validation finished with loss:  0.0045964339 and metrics mae:  0.0335274245, rmse:  0.0511109046,
+--------------------------------------------------
+Starting training of epoch 60:
+Training finished with loss:    0.0033635339 and metrics mae:  0.0292934653, rmse:  0.0434484685,
+Validation finished with loss:  0.0045810874 and metrics mae:  0.0339223420, rmse:  0.0513336704,
+--------------------------------------------------
+Starting training of epoch 61:
+Training finished with loss:    0.0033422527 and metrics mae:  0.0291980781, rmse:  0.0432977217,
+Validation finished with loss:  0.0045442630 and metrics mae:  0.0338214333, rmse:  0.0510631807,
+--------------------------------------------------
+Starting training of epoch 62:
+Training finished with loss:    0.0033376644 and metrics mae:  0.0292675382, rmse:  0.0433100438,
+Validation finished with loss:  0.0045084919 and metrics mae:  0.0333972463, rmse:  0.0507545874,
+--------------------------------------------------
+Starting training of epoch 63:
+Training finished with loss:    0.0033385311 and metrics mae:  0.0292695922, rmse:  0.0433512035,
+Validation finished with loss:  0.0044940179 and metrics mae:  0.0333348622, rmse:  0.0506609105,
+--------------------------------------------------
+Starting training of epoch 64:
+Training finished with loss:    0.0033433991 and metrics mae:  0.0292411449, rmse:  0.0433552979,
+Validation finished with loss:  0.0046079652 and metrics mae:  0.0336401088, rmse:  0.0511433486,
+--------------------------------------------------
+Starting training of epoch 65:
+Training finished with loss:    0.0033206742 and metrics mae:  0.0290681345, rmse:  0.0431625192,
+Validation finished with loss:  0.0046485931 and metrics mae:  0.0337416091, rmse:  0.0513193553,
+--------------------------------------------------
+Starting training of epoch 66:
+Training finished with loss:    0.0032988801 and metrics mae:  0.0289579345, rmse:  0.0430144450,
+Validation finished with loss:  0.0045619552 and metrics mae:  0.0334239484, rmse:  0.0508275305,
+--------------------------------------------------
+Starting training of epoch 67:
+Training finished with loss:    0.0033042979 and metrics mae:  0.0290766880, rmse:  0.0431071802,
+Validation finished with loss:  0.0044775739 and metrics mae:  0.0331458942, rmse:  0.0504199333,
+--------------------------------------------------
+Starting training of epoch 68:
+Training finished with loss:    0.0033056210 and metrics mae:  0.0290662565, rmse:  0.0431080280,
+Validation finished with loss:  0.0045014397 and metrics mae:  0.0334453398, rmse:  0.0506803431,
+--------------------------------------------------
+Starting training of epoch 69:
+Training finished with loss:    0.0033049399 and metrics mae:  0.0290391359, rmse:  0.0431306629,
+Validation finished with loss:  0.0046004977 and metrics mae:  0.0334677485, rmse:  0.0509271322,
+--------------------------------------------------
+Starting training of epoch 70:
+Training finished with loss:    0.0032851978 and metrics mae:  0.0288776321, rmse:  0.0429303727,
+Validation finished with loss:  0.0046578915 and metrics mae:  0.0334646470, rmse:  0.0510469367,
+--------------------------------------------------
+Starting training of epoch 71:
+Training finished with loss:    0.0032622796 and metrics mae:  0.0287426590, rmse:  0.0427660529,
+Validation finished with loss:  0.0045658482 and metrics mae:  0.0334666041, rmse:  0.0507967663,
+--------------------------------------------------
+Starting training of epoch 72:
+Training finished with loss:    0.0032562681 and metrics mae:  0.0287857357, rmse:  0.0427605656,
+Validation finished with loss:  0.0044884234 and metrics mae:  0.0332880906, rmse:  0.0505354847,
+--------------------------------------------------
+Starting training of epoch 73:
+Training finished with loss:    0.0032610780 and metrics mae:  0.0288113752, rmse:  0.0428155701,
+Validation finished with loss:  0.0045036229 and metrics mae:  0.0335090579, rmse:  0.0507264434,
+--------------------------------------------------
+Starting training of epoch 74:
+Training finished with loss:    0.0032651829 and metrics mae:  0.0287661521, rmse:  0.0428190271,
+Validation finished with loss:  0.0046191169 and metrics mae:  0.0337491461, rmse:  0.0510848431,
+--------------------------------------------------
+Starting training of epoch 75:
+Training finished with loss:    0.0032277925 and metrics mae:  0.0285698241, rmse:  0.0425748769,
+Validation finished with loss:  0.0046684385 and metrics mae:  0.0336231052, rmse:  0.0511071700,
+--------------------------------------------------
+Starting training of epoch 76:
+Training finished with loss:    0.0032280200 and metrics mae:  0.0285716884, rmse:  0.0425334929,
+Validation finished with loss:  0.0045677590 and metrics mae:  0.0334783770, rmse:  0.0507582761,
+--------------------------------------------------
+Starting training of epoch 77:
+Training finished with loss:    0.0032166389 and metrics mae:  0.0285701546, rmse:  0.0425059996,
+Validation finished with loss:  0.0045221694 and metrics mae:  0.0333606803, rmse:  0.0505744799,
+--------------------------------------------------
+Starting training of epoch 78:
+Training finished with loss:    0.0032251588 and metrics mae:  0.0286400902, rmse:  0.0425925270,
+Validation finished with loss:  0.0045479623 and metrics mae:  0.0335327408, rmse:  0.0507767271,
+--------------------------------------------------
+Starting training of epoch 79:
+Training finished with loss:    0.0032217320 and metrics mae:  0.0286068585, rmse:  0.0425689382,
+Validation finished with loss:  0.0046452564 and metrics mae:  0.0338039948, rmse:  0.0511446630,
+--------------------------------------------------
+Starting training of epoch 80:
+Training finished with loss:    0.0031909800 and metrics mae:  0.0284166798, rmse:  0.0423575063,
+Validation finished with loss:  0.0046856026 and metrics mae:  0.0339498488, rmse:  0.0512422313,
+--------------------------------------------------
+Starting training of epoch 81:
+Training finished with loss:    0.0031792448 and metrics mae:  0.0283015123, rmse:  0.0422227211,
+Validation finished with loss:  0.0046800715 and metrics mae:  0.0339973010, rmse:  0.0512660231,
+--------------------------------------------------
+Starting training of epoch 82:
+Training finished with loss:    0.0031708738 and metrics mae:  0.0283939739, rmse:  0.0422829208,
+Validation finished with loss:  0.0045726555 and metrics mae:  0.0334085189, rmse:  0.0507205654,
+Validation finished with loss:  0.0043845322 and metrics mae:  0.0340585396, rmse:  0.0504785697,
+Test loss:  0.004384532174249
+Test metric mae:  0.034058539633950, Test metric rmse:  0.050478569722092,
+Ground Truth (erste 10 Werte): [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Predictions (erste 10 Werte): [0.004459247, 0.0014521703, 0.00048153102, -0.00013269484, -0.00079119205, -0.0009393841, -0.0014597923, -0.00024870038, -0.00096677244, 0.00056017935]
+Data für W&B (erste 10 Zeilen): [[0, 0.0, 0.00445924699306488], [1, 0.0, 0.0014521703124046326], [2, 0.0, 0.000481531023979187], [3, 0.0, -0.00013269484043121338], [4, 0.0, -0.0007911920547485352], [5, 0.0, -0.0009393841028213501], [6, 0.0, -0.0014597922563552856], [7, 0.0, -0.0002487003803253174], [8, 0.0, -0.0009667724370956421], [9, 0.0, 0.0005601793527603149]]
+WARNING:root:Truncating wandb.Table object to 200000 rows.

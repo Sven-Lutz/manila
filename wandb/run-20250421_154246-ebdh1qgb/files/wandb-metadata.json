@@ -1,0 +1,16 @@
+{
+  "os":  "macOS-15.3.2-arm64-arm-64bit",
+  "python":  "CPython 3.11.5",
+  "startedAt":  "2025-04-21T13:42:46.384442Z",
+  "program":  "/Users/svenlutz/Documents/Manila/TimeSeriesAnalysis/main.py",
+  "codePath":  "Documents/Manila/TimeSeriesAnalysis/main.py",
+  "git":  {
+    "remote":  "git@github.com:Sven-Lutz/PiS_Python_Basics.git",
+    "commit":  "4a366e5160d141fef101c879bd9d2a03816817bd"
+  },
+  "email":  "sven.lutz@fim-rc.de",
+  "root":  "/Users/svenlutz/Documents/Manila/TimeSeriesAnalysis",
+  "host":  "localhost",
+  "executable":  "/Users/svenlutz/miniconda3/envs/manila/bin/python",
+  "codePathLocal":  "main.py"
+}

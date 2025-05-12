@@ -1,0 +1,39 @@
+_wandb:
+    value:
+        cli_version: 0.19.9
+        m: []
+        python_version: 3.11.5
+        t:
+            "1":
+                - 1
+                - 51
+                - 55
+            "2":
+                - 1
+                - 51
+                - 55
+            "3":
+                - 2
+                - 14
+                - 23
+                - 55
+            "4": 3.11.5
+            "5": 0.19.9
+            "8":
+                - 5
+            "12": 0.19.9
+            "13": darwin-arm64
+batch_size:
+    value: 32
+epochs:
+    value: 100
+hidden_size:
+    value: 32
+horizon:
+    value: 24
+lookback:
+    value: 48
+num_layers:
+    value: 2
+patience:
+    value: 15

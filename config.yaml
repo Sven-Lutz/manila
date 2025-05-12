@@ -1,4 +1,4 @@
-mode: "sweep" # Wähle: "single", "grid" oder "sweep"
+mode: "grid" # Wähle: "single", "grid" oder "sweep"
 
 single_run:
   lookback: 96

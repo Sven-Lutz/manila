@@ -1,0 +1,16 @@
+wandb_version: 1
+
+batch_size:
+  value: 16
+epochs:
+  value: 100
+hidden_size:
+  value: 64
+horizon:
+  value: 24
+lookback:
+  value: 48
+num_layers:
+  value: 1
+patience:
+  value: 15
